@@ -1,0 +1,36 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "standart json file",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "browser-sync": "^2.26.7",
+    "dotenv": "^8.2.0",
+    "gulp": "^4.0.0",
+    "gulp-babel": "8.0.0",
+    "gulp-changed-in-place": "^2.3.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^2.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-svg-sprite": "^1.5.0",
+    "gulp-uglify": "^3.0.1",
+    "gulp-util": "^3.0.8",
+    "postcss-inline-svg": "^3.1.1",
+    "postcss-safe-parser": "^4.0.1",
+    "postcss-short": "^5.0.0",
+    "precss": "^4.0.0",
+    "vinyl-ftp": "^0.6.1"
+  },
+  "dependencies": {},
+  "browserslist": [
+    "last 2 version",
+    "> 1%"
+  ]
+}
